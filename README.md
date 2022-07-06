@@ -1,3 +1,2 @@
 # new
-Simplilearn
-hi
+this is firt commit
